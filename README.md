@@ -1,17 +1,23 @@
-# classwork_1
+# Classwork 1 - Flutter Assignment
 
-A new Flutter project.
+A Flutter application for collecting and displaying student details.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- First Name input
+- Last Name input
+- Gender selection (Male, Female, Others)
+- Department selection (IT, Sales, Finance)
+- Form validation
+- Navigation between Student Details and Output pages
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Visual Studio Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+
+1. Student Details Page
+2. Output Page
